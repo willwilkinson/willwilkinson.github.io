@@ -1,19 +1,19 @@
-title:            Site Title
-tagline:          A short tagline
-description:      Describe your website.
+title:            Glass Flytrap
+tagline:          
+description:      A passive trap for flying insects.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://nidoran.cis.upenn.edu
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Will Wilkinson
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "Definitely not a libertarian."
+#  email:          willwilkinson@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        willwilkinson
+  facebook:       wwilkinson
+  github:         willwilkinson
   linkedin:       
   instagram:      
   lastfm:         
@@ -34,10 +34,8 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Old Blog
+    url: http://willwilkinson.wordpress.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
