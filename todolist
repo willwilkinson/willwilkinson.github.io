@@ -1,10 +1,10 @@
-* Remove footer
 * Clean up the header image (change jpg dimensions?)
 * Reset header images for all pages (in _layouts/* ?)
 * Set up links on the top navigation bar (in _config.yml)
 * Set a favicon
 * What is that weird Atom feed bug?
 * Make sure Atom feed works when a post is pushed
+* Quoted text font size is too big
 
 * Set up disqus comments
 * Set up google analytics tracking
