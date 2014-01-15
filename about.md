@@ -7,7 +7,7 @@ tags: [about, Jekyll, theme, responsive]
 modified: 9-9-2013
 image:
   feature: texture-feature-02.jpg
-  credit: Texture Lovers
+  credit: Actually, Will Wilkinson took this picture
   creditlink: http://texturelovers.com
 ---
 
