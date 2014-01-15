@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+categories: 
+  - test
+type: post
 ---
 
 ## This One Is Written in Prose
