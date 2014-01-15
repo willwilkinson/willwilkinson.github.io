@@ -1,0 +1,25 @@
+* Remove footer
+* Clean up the header image (change jpg dimensions?)
+* Reset header images for all pages (in _layouts/* ?)
+* Set up links on the top navigation bar (in _config.yml)
+* Set a favicon
+* What is that weird Atom feed bug?
+* Make sure Atom feed works when a post is pushed
+
+* Set up disqus comments
+* Set up google analytics tracking
+
+* Make sure site visible on github.io
+* Add CNAME to willwilkinson.net
+
+
+* Reformat Twitter card information
+* Reformat Facebook open graph infomation
+
+* Check iPad and iPhone and Android viewability (!!!)
+* iPad:
+* iPhone:
+* Android phone:
+
+* Maybe minify all the jss into one request? Maybe github takes care
+  of this so its not a big deal...
