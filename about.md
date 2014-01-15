@@ -1,14 +1,13 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 9-9-2013
+title: About Will Wilkinson
+tagline: Something something
+tags: [about]
+modified: 1-15-2014
 image:
-  feature: texture-feature-02.jpg
+  feature: texture-feature-01.jpg
   credit: Actually, Will Wilkinson took this picture
-  creditlink: http://texturelovers.com
 ---
 
 Small change. Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
