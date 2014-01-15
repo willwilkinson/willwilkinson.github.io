@@ -8,18 +8,18 @@ url:              http://willwilkinson.github.io
 owner:
   name:           Will Wilkinson
   avatar:         bio-photo.jpg
-  bio:            "Definitely not a libertarian."
+  bio:            "Writerer"
   email:          willwilkinson@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        willwilkinson
   facebook:       wwilkinson
   github:         willwilkinson
   linkedin:       
-  instagram:      
+  instagram:      wjkwilkinson
   lastfm:         
-  tumblr:         
+  tumblr:         willwilkinson
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    +WillWilkinson
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
