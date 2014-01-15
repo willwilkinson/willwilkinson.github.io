@@ -15,7 +15,7 @@
 
 {% if page.image.feature %}<div class="image-wrap">
   <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
-  {% if page.image.credit %}<span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>{% endif %}
+</a></span>{% endif %}
 </div><!-- /.image-wrap -->{% endif %}
 
 <div class="article-author-side">
@@ -23,7 +23,7 @@
 </div>
 
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
-  <h3><a href="{{ site.url}}/articles/">Articles</a></h3>
+  <h3><a href="{{ site.url}}/articles/">Recent Posts</a></h3>
   {% for post in site.posts limit:5 %}    
   <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
     <h2 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
