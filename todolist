@@ -1,5 +1,3 @@
-* Clean up the header image (change jpg dimensions?)
-* Set up links on the top navigation bar (in _config.yml)
 * Set a favicon
 * Quoted text font size is too big
 
@@ -16,7 +14,6 @@
 * Check iPad and iPhone and Android viewability (!!!)
 * iPad:
 * iPhone:
-* Android phone: Looks good and works great except the articles page is too big.
 
 * Maybe minify all the jss into one request? Maybe github takes care
   of this so its not a big deal...
