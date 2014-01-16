@@ -16,4 +16,4 @@ My work has appeared in _The Atlantic_, _The Economist_, _The Daily_, The Boston
 
 A recovering Washingtonian, I was a research fellow at the Cato Institute for five years, and before that did stints at the Mercatus Center and the Institute for Humane Studies. 
 
-I live in Houston, Texas with my wife, [Kerry Howley](http://kerryhowley.com), and our Vizsla, Winston.
+I live in Houston, Texas with my wife, [Kerry Howley](http://kerryhowley.com),Â and our Vizsla, Winston.
