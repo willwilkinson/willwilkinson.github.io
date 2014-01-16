@@ -36,7 +36,7 @@ links:
     url: /archive/
   - title: Selected Articles and Reviews
     url: /articles-and-reviews/
-    external: true
+    
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
