@@ -5,8 +5,6 @@ categories: [Filthy Non-Theoretical Politics]
 type: post
 ---
 
-The Senate Is Not Too Slow
-Posted on December 29, 2009 by Will Wilkinson
 Here’s Ezra Klein, [complaining again about the Senate](http://voices.washingtonpost.com/ezra-klein/2009/12/filibustering_the_government_i.html):
 
 >Most of the GOP’s filibusters are fruitless. According to PFAW, “a full 89% of the time, the cloture vote did nothing but delay the inevitable — a huge increase from the previous high of 56%.” And in a majority of those cases, cloture was passed with more than 65 votes — that is to say, the vote was bipartisan. In one case — a bill extending unemployment insurance — the final vote was 97-0.The filibuster isn’t being used to block a particular issue but to obstruct the legislative process in general. It is, increasingly, a filibuster against a functioning government, not against polarizing pieces of legislation.
