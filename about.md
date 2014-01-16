@@ -7,22 +7,13 @@ tags: [about]
 modified: 1-15-2014
 image:
   feature: texture-feature-01.jpg
-  credit: Actually, Will Wilkinson took this picture
+  credit: Will Wilkinson
 ---
 
-Small change. Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+Hi there. I'm a writer based in Houston, Texas. I study [creative writing at the University of Houston](http://www.uh.edu/class/english/programs/graduate/creative-writing/), where I'm an assistant nonfiction editor for [_Gulf Coast_](http://gulfcoastmag.com). And I blog about American politics for [_The Economist_](http://www.economist.com/blogs/democracyinamerica).
 
-## Minimal Mistakes is all about:
+My work has appeared in _The Atlantic_, _The Economist_, _The Daily_, The Boston Review_, _Reason_, _Forbes_, _The Daily Beast, Bloomberg, Slate_, _Prospect_, and a variety of other publication online and off. I've been a columnist for _The Week, _a regular writer for _The Economist_'s economics blog, a regular on Bloggingheads TV, and a regular commentator for American Public Media's radio program Marketplace. I also dabble in [illustration](http://www.theatlantic.com/politics/archive/2011/08/faces-of-iowa-sketches-from-the-ames-straw-poll/243618/).
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+A recovering Washingtonian, I was a research fellow at the Cato Institute for five years, and before that did stints at the Mercatus Center and the Institute for Humane Studies.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
-
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+I live in Houston, Texas with my wife, [Kerry Howley](http://kerryhowley.com), and our Vizsla, Winston.
