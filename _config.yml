@@ -37,7 +37,6 @@ links:
     url: /archive/
   - title: Selected Articles and Reviews
     url: /articles-and-reviews/
-    
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
@@ -46,7 +45,7 @@ pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   pretty 
 
 kramdown:
   auto_ids: true
