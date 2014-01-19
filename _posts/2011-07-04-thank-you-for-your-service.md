@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thank You For Your Service'
-categories: [test]
+categories: [Decency, War]
 type: post
 ---
 
