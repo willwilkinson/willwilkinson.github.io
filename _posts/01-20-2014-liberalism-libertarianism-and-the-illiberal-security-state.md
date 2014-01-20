@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Liberalism, Libertarianism, and the Illiberal Security State'
-categories: [political philosophy, filthy non-theoretical politics]
+categories: [political philosophy]
 type: post
 ---
 [Henry Farrell's thorough levelling](http://crookedtimber.org/2014/01/19/the-liberal-surveillance-state/) of [Sean Wilentz's charge](http://www.newrepublic.com/article/116253/edward-snowden-glenn-greenwald-julian-assange-what-they-believe) against Snowden, Assange, Greenwald and their ilk--that they are driven by a suspiciously libertarian animosity to the liberal state--put me in mind of a thought that's been rattling around my noggin for a while, which is this: the actually-existing, so-called liberal state is impossible to justify on the mundane liberal terms most intellectuals accept. But this is generally overlooked, and I blame libertarianism. Not really. I blame confused liberals. Libertarianism has only antagonized them into confusion. 
