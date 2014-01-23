@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: 'Liberal Legitimacy and the Least-Bad Hegemon'
+title: 'Liberal Legitimacy and the Least Bad Hegemon'
 categories: [politics]
 type: post
 ---
