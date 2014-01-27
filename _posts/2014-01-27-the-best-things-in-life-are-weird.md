@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Best Things in Life are W.E.I.R.D'
+title: 'The Best Things in Life are W.E.I.R.D.'
 categories: [politics]
 type: post
 ---
