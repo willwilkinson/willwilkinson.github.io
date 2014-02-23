@@ -45,6 +45,7 @@ pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
+# Please do not ever change this, as that will break links all over the interwebs that currently link to blog posts on this site... See _redirects.py for more information
 permalink:   pretty 
 
 kramdown:
