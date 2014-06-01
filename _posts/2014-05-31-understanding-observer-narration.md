@@ -11,47 +11,28 @@ Lawrence Buell's ["Observer-Hero Narratives"](https://www.dropbox.com/s/g7020xga
 Anyway, my plan is to work through the books on my list, recording my comments here as I go. If anyone would like to read along, or chip in about books they have read, I should be delighted. So here is my (evolving list) in roughly chronological order. 
 
 -	F. Scott Fitzgerald, *The Great Gatsby*, 1925.
-
 -	Ernest Hemingway, *The Sun Also Rises*, 1926.
-
 -	Willa Chather, *My Mortal Enemy*, 1926.
-
 -	William Faulkner, *Absalom, Absalom*, 1936.
-
 -	Glenway Westcott, *The Pilgrim Hawk*, 1940.
-
 -	Robert Penn Warren, *All the King’s Men,* 1947
-
 -	Mark Harris, *Bang the Drum Slowly,* 1956.
-
 -	Wright Morris, *The Huge Season*, 1956.
-
 -	Vladimir Nabokov, *Pale Fire*, 1956.
-
 -	Ken Kesey, *One Flew Over the Cuckoo’s Nest*, 1962.
-
 -	James Salter, *A Sport and a Pasttime*, 1967.
-
 -	Joan Didion, *The Book of Common Prayer*, 1977
-
 -	William Styron, *Sophie’s Choice*, 1979.
-
 -	John Irving, *A Prayer for Owen Meany*, 1989.
-
--	Donna Tartt, *The Secret History*, 1991.
-
+-	Donna Tartt, *The Secret History*, 1991
 -	Philip Roth, *The Human Stain*, 2000.
 
 Not American, but probably going to (re)read anyway
 
 -	Joseph Conrad, *Lord Jim,* 1900.
-
 -	Ford Madox Ford, *The Good Soldier,* 1915.
-
 -	Vladimir Nabokov, *The Real Life of Sebastian Knight*, 1941.
-
 -	Thomas Mann, *Dr Faustus*, 1943.
-
 -	Graham Greene, *The Quiet American*, 1955.
 
 I'd like some more recent stuff, and would love some tips. 
