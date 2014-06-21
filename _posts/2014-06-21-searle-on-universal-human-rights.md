@@ -6,7 +6,7 @@ type: post
 ---
 In an [NYRB interview with Tim Crane](http://www.nybooks.com/blogs/nyrblog/2014/jun/20/john-searle-philosopher-world/), John Searle makes some intriguing comments on human rights within the context of his theory of social ontology.
 
->*Are you skeptical of the idea of universal human rights?* 
+>**Are you skeptical of the idea of universal human rights?** 
 >
 >No, I’m not skeptical about the idea of universal human rights. I’m skeptical about what I call positive rights. You see, if you look at the logical structure of rights, every right implies an obligation on someone else’s part. A right is always a right against somebody. If I have a right to park my car in your driveway, then you have an obligation not to interfere with my parking my car in your driveway. Now the idea of universal human rights is a remarkable idea because if there are such things, then all human beings are under an obligation to do—what? Well, I want to say that with things like the right to free speech it just means not to interfere. It’s a negative right. My right to free speech means I have a right to exercise my free speech without being interfered with. And that means that other people are under an obligation not to interfere with me. 
 >
