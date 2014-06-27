@@ -1,5 +1,10 @@
 ---
-published: false
+published: true
+layout: post
+title: "Are Conditional Transfers Paternalistic?"
+categories: 
+  - philosophy
+type: post
 ---
 
 
