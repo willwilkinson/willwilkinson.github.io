@@ -4,7 +4,7 @@ published: true
 
 ## Free Will Is Back
 
-I'm back at Bloggingheads TV. In this iteration, you can expect Free Will to be about 1/2 literary, 1/2 big ideas, 5/2 awesome. We kicked off last week with Matt Quirk, author of _The Directive_, a thriller about ripping off the Fed. Next week, I'll chat with Jason Brennan about _Why Not Capitalism?_ 
+[I'm back at Bloggingheads TV.](http://bloggingheads.tv/videos/29813) In this iteration, you can expect Free Will to be about 1/2 literary, 1/2 big ideas, 5/2 awesome. We [kicked off last week](http://bloggingheads.tv/videos/29813) with Matt Quirk, author of _The Directive_, a thriller about ripping off the Fed. Next week, I'll chat with Jason Brennan about _Why Not Capitalism?_ 
 
 Requests? 
 
