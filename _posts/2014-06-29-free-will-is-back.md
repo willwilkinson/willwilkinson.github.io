@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Free Will Is Back
