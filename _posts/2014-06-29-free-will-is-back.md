@@ -1,5 +1,10 @@
 ---
 published: true
+layout: post
+title: Free Will Is Back
+categories: 
+  - free will
+type: post
 ---
 
 ## Free Will Is Back
