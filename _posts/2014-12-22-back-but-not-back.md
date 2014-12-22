@@ -1,7 +1,7 @@
 ---
-layout: 
+layout: post
 title: Back But Not Back
-categories: []
+categories: [admin]
 tags: []
 published: True
 
