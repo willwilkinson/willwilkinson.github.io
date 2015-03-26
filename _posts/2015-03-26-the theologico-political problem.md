@@ -7,7 +7,7 @@ published: True
 
 ---
 
-I've been reading a lot of Leo Strauss and Strausseans lately. The novel I'm working on is told from the perspective of the son of a famous (fictional) Straussean academic, and his inherited Strausseanism, his oddly philosophical way of seeing the world, shapes to the narrative. Anyway, it's a weird thing to pickle in, Strausseanism, if you're not disposed to believe in it, and I need to get a few thoughts off my chest. 
+I've been reading a lot of Leo Strauss and Strausseans lately. The novel I'm working on is told from the perspective of the son of a famous (fictional) Straussean academic, and his inherited Strausseanism, his oddly philosophical way of seeing the world, shapes the narrative. Anyway, it's a weird thing to pickle in, Strausseanism, if you're not disposed to believe in it, and I need to get a few thoughts off my chest. 
 
 I find that I've badly underrated Strauss as a subtle and stimulating thinker about the down-and-dirty reality of politics. Yet the preoccupations that divides _Strausseans_ are bizarre, and seem to be based on the worst in Strauss. The best one can say for the so-called "theologico-political problem," which Strauss a couple times said was the central theme of his work, is that he's up to some kind of sophistical mischief he expects his brighter readers to see through. But even when you see through it, what you see is crazy. 
 
